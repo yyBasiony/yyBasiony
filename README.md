@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/j3UZdSpPsp4AAAAi/borboletas.gif">
+  <img src="https://media.tenor.com/rpx-uyV0QysAAAAi/butterfly.gif">
 </p>
 
 
