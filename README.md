@@ -1,6 +1,6 @@
 # <img src="https://github.com/yyBasiony/yyBasiony/blob/main/forgithub.gif?raw=true"> 👋 Hi, I'm Yasmine Ibrahim
 💡 **Junior Flutter Developer & UI/UX Designer**  
-🎯 Passionate about **Problem Solving** & creating clean, scalable mobile apps  
+🎯 Passionate about **Problem Solving**, **Mobile App UI/UX Design**, & creating clean, scalable mobile apps
 
 ---
 
