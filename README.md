@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://tenor.com/iWoQSJTlCkL.gif">
+  <img src="https://tenor.com/bi6nc.gif">
+</p>
+
+
 # <img src="https://github.com/yyBasiony/yyBasiony/blob/main/forgithub.gif?raw=true"> 👋 Hi, I'm Yasmine Ibrahim
 💡 **Junior Flutter Developer & UI/UX Designer**  
 🎯 Passionate about **Problem Solving**, **Mobile App UI/UX Design**, & creating clean, scalable mobile apps
