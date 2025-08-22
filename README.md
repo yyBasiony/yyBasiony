@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://github.com/yyBasiony/yyBasiony/blob/main/forgithub.gif?raw=true"/>
-  <h1>👋 Hi, I'm Yasmine Ibrahim</h1>
-</div>
+# <img src="https://github.com/yyBasiony/yyBasiony/blob/main/forgithub.gif?raw=true"> 👋 Hi, I'm Yasmine Ibrahim
 💡 **Junior Flutter Developer & UI/UX Designer**  
 🎯 Passionate about **Problem Solving** & creating clean, scalable mobile apps  
 
