@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://media.tenor.com/rpx-uyV0QysAAAAi/butterfly.gif" width="280">
+<img src="https://media.tenor.com/rpx-uyV0QysAAAAi/butterfly.gif" width="200">
 </p>
+
 # <img src="https://github.com/yyBasiony/yyBasiony/blob/main/forgithub.gif?raw=true"> 👋 Hi, I'm Yasmine Ibrahim
 💡 **Junior Flutter Developer & UI/UX Designer**  
 🎯 Passionate about **Problem Solving**, **Mobile App UI/UX Design**, & creating clean, scalable mobile apps
