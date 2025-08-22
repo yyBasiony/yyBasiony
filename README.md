@@ -34,12 +34,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyBasiony&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yyBasiony&layout=compact&theme=radical&langs_count=8&hide=java,kotlin,swift,objective-c,gradle,groovy,cmake,makefile,html,css)
-
----
 
 ### 📬 Connect with me  
 - 📧 **Email:** yasmineibrahim0121202@gmail.com  
