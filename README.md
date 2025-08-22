@@ -14,7 +14,7 @@
 ---
 
 ### 📚 Currently Learning  
-- Improving my Flutter skills (animations, performance, CI/CD)  
+- Improving my Flutter skills   
 - Enhancing my UI/UX design skills  
 - Strengthening my Problem Solving & DSA knowledge  
 
