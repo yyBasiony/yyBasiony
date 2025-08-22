@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/yyBasiony/yyBasiony/blob/main/forgithub.gif?raw=true" width="400"/>
+  <img src="https://github.com/yyBasiony/yyBasiony/blob/main/forgithub.gif?raw=true" width="300"/>
 </p>
 
 # 👋 Hi, I'm Yasmine Ibrahim  
