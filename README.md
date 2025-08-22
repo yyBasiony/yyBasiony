@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/yyBasiony/yyBasiony/blob/main/forgithub.gif?raw=true" width="60"/>
+  <img src="https://github.com/yyBasiony/yyBasiony/blob/main/forgithub.gif?raw=true"/>
   <h1>👋 Hi, I'm Yasmine Ibrahim</h1>
 </div>
 💡 **Junior Flutter Developer & UI/UX Designer**  
