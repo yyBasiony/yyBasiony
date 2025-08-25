@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/rpx-uyV0QysAAAAi/butterfly.gif" width="200" alt="Butterfly GIF">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWRkbW5ydGVqdTZhbzczMWxmaTloMm45MzJzazY5cXpyN3RjdG85ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SrriKvLdLyZeE/giphy.gif" width="200" alt="Daisy GIF">
+<img src="https://media.tenor.com/rpx-uyV0QysAAAAi/butterfly.gif" width="200">
 </p>
 
 # <img src="https://github.com/yyBasiony/yyBasiony/blob/main/forgithub.gif?raw=true"> 👋 Hi, I'm Yasmine Ibrahim
