@@ -3,8 +3,8 @@
 </p>
 
 # <img src="https://github.com/yyBasiony/yyBasiony/blob/main/forgithub.gif?raw=true"> 👋 Hi, I'm Yasmine Ibrahim
-💡 ** Flutter Developer & UI/UX Designer**  
-🎯 Passionate about **Problem Solving**, **Mobile App UI/UX Design**, & creating clean, scalable mobile apps
+💡 ** بتاع لبن**  
+🎯 Passionate about ولا اي حاجه
 
 ---
 
