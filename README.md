@@ -9,18 +9,10 @@
 ---
 
 ### 🚀 Skills  
-- Flutter & Dart  
-- Firebase, Supabase & REST APIs  
-- UI/UX Tools: Figma
-- Problem Solving (DSA, Algorithms)  
-- Git & GitHub  
 
 ---
 
 ### 📚 Currently Learning  
-- Improving my Flutter skills   
-- Enhancing my UI/UX design skills  
-- Strengthening my Problem Solving & DSA knowledge  
 
 ---
 
