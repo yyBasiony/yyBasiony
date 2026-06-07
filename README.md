@@ -3,8 +3,7 @@
 </p>
 
 # <img src="https://github.com/yyBasiony/yyBasiony/blob/main/forgithub.gif?raw=true"> 👋 Hi, I'm Yasmine Ibrahim
-💡 ** بتاع لبن**  
-🎯 Passionate about ولا اي حاجه
+=🎯 Passionate about ولا اي حاجه
 
 ---
 
